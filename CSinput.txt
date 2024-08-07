@@ -1,0 +1,35 @@
+63960 10800.                 NDT, DT (number of timesteps, length time step in seconds)
+10.                          TEMP (average water temp)
+5.8663e-11                   SLR (sea level rise, m/s)
+0.6                            A
+0.4	                         APRIM
+0.2                          ASFN
+wl.DAT                       WATER LEVEL FILE
+wind.DAT                     WIND FILE
+1                           N (number of CS-profiles)
+CSprofile1.dat               PROFILE INPUT FILE
+CSprofile2.dat 
+CSprofile3.dat 
+CSprofile4.dat 
+CSprofile5.dat 
+CSprofile6.dat 
+CSprofile7.dat 
+CSprofile8.dat 
+CSprofile9.dat 
+CSprofile10.dat 
+CSprofile11.dat 
+CSprofile12.dat 
+CSprofile13.dat 
+CSprofile14.dat 
+CSprofile15.dat 
+CSprofile16.dat 
+CSprofile17.dat 
+CSprofile18.dat 
+CSprofile19.dat 
+CSprofile20.dat 
+CSprofile21.dat 
+CSprofile22.dat 
+CSprofile23.dat 
+CSprofile24.dat 
+CSprofile25.dat 
+CSprofile26.dat 
