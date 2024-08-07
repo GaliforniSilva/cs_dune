@@ -1,0 +1,16 @@
+WAVES1.dat                                  WAVE FILE
+  100.00   137.51   145.14                   YL, YSPRIM, YS
+    3.59    100.00                            S, SMAX
+    0.22     0.47     0.10                   BETAL, BETAS, BETAF
+2.000000e-04   265.00                        D50,SHORN
+  358.08   109.12     2.00                   VBEACH,VOLBAR, BUDGET
+    5.30     3.00   700.00                   DCLOS,DFOOT, BACTIVE
+6.000000e-04     2.00 1.0000e-01 2.0000e-02        CIMPACT,KW, CWRATE, CF
+ 4.4921e-01 3.8907e+01 8.0000e-02                      AL, BL, CB
+    0.00   0.0000                            BARNOUR, VW
+0                                       QLSIN
+0 VANR
+ VOLAT
+         VOLAD
+         VOLAB
+         VOLRB
